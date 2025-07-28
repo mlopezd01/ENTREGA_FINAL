@@ -1,4 +1,4 @@
-****Proyecto-Ingenias*****
+****Proyecto-Ingenias****
 
 Análisis exploratorio de datos sobre películas usando Python. Se visualizan patrones según género, duración y calificación, aplicando librerías como Pandas, Matplotlib y Seaborn para obtener insights relevantes de la industria del cine.
 
@@ -17,6 +17,8 @@ duration: Duración del contenido (en minutos o temporadas).
 listed_in: Categorías o géneros en los que se clasifica.
 description: Descripción breve del título.
 Este dataset se utilizó en la entrega 2, en las entregas posteriores se cambió a otro para tener mayor información a utilizar para el entrenamiento del modelo. Las características del nuevo dataset estan explicados en el README correspondiente.
+
+
 **Segmentación de Películas y Series mediante Clustering**
 
 Este proyecto aplica técnicas de reducción de dimensionalidad (PCA) y supervisaje no supervisado (clustering) para segmentar un catálogo de películas y series según sus características técnicas, de género, distribución geográfica y recepción del público.
